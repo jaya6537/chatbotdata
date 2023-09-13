@@ -1,0 +1,245 @@
+Mining is a major economic activity in India and accounted for 2% of the country's gross value added (GVA) for the third quarter of 2019 to 2020. The sector provides the basic raw materials required by several manufacturing and infrastructure industries in the country.
+India produces 95 minerals, including:
+Four fuel-related minerals.
+Ten metallic minerals.
+23 non-metallic minerals.
+Three atomic minerals.
+55 minor minerals (including building and other minerals).
+Globally, India is ranked as one of the leading producers of valuable minerals such as chromite, iron ore, coal and bauxite.
+The mining sector in India is highly regulated and the legal framework has undergone significant changes in the past five years, the result of which is a more transparent and efficient regime.
+Some of the recent developments in the sector include:
+The Mineral Laws (Amendment) Act 2020. This amends the Mines and Minerals (Development and Regulation) Act 1957 (MMDR Act) and the Coal Mines (Special Provisions) Act 2015 (CMSPA). The amendments to the MMDR Act, among other things:
+enables State governments to take advance actions for the auction of a mining lease before its expiry;
+provides for approvals, licences and clearances of the previous lessee to be automatically transferred to the new lessee for a period of two years from the date of grant of the new lease; and
+allows holders of a non-exclusive reconnaissance permit to apply for other licences.
+The amendments to the CMSPA are aimed at boosting coal production and reducing dependencies on imports. Companies with no coal mining or other mining experience can participate in auctions of coal blocks. Further, the amendment removes end-use restrictions on companies producing coal under the CMSPA. The amended provisions, therefore, allow for wider participation in the auction of coal mines for a variety of purposes (such as own consumption or for any other purpose specified by the central government).
+The Occupational Safety, Health and Working Conditions Code 2020 (OSH Code). The central government has recently amalgamated the existing Indian labour laws relating to safety, health and working conditions of workers employed in various establishments, including mines, under the OSH Code. Among other things, the OSH Code sets the requirements for safety and working conditions of labour employed in mines. The OSH Code will come into effect on a date to be notified by the central government. Once notified, it will replace the Mines Act 1952 (Mines Act) and the Mines Rules 1955 (Mines Rules).
+National Mineral Policy 2019. This policy replaces the National Mineral Policy 2008. The policy was introduced with the aim to increase transparency and enforcement, and implement sustainable mining practices. Among other things, the policy includes incentives to attract private investment and state-of-the-art technology through rights of first refusal at auction and opportunities for the private sector to take up exploration activities. The policy also emphasises strengthening the regulatory mechanism by incorporating e-governance systems to:
+prevent illegal mining and value leakages;
+facilitate end-to-end accounting of mineral ore in the supply chain;
+increase awareness and information campaigns to involve local populations, to supplement law enforcement capabilities in preventing illegal mining.
+The Mineral Conservation and Development (Amendment) Rules 2018. These rules aim to ensure that mineral production is not affected by the expiry of existing mining leases. The rules require general exploration (G2) to be carried out by 1 April 2019 for all mining leases (other than coal, lignite and atomic minerals) used for non-captive purposes expiring in March 2020. The amendment also lays down timelines for the implementation of exploration plans to ensure seamless transition on the expiry of existing mining leases.
+The Mineral (Auction) Amendment Rules 2017. These rules were notified on 30 November 2017 to expedite the auction process for major minerals (other than coal, petroleum and natural gas). The amended rules require flexibility in block allocations in the second round, rather than waiting until the fourth round as was usual under the old rules, which had resulted in a significant number of blocks being annulled. In addition, the net-worth requirement for bidders has also been relaxed.
+Coal Mines (Special Provisions) Act 2015 (CMSPA). In an order dated 27 February 2018, the central government approved the methodology under the CMSPA for allocation of coal mines by auction and allotment of coal for sale. The CMSPA envisages an ascending forward auction where the bid parameters are the price offer in INR per tonne to be paid to the State government on coal production. This is one of the most significant reforms in the coal sector since the nationalisation of the sector in 1973 and has the effect of opening up commercial coal mining to the private sector.
+Pro-Active and Responsive facilitation by Interactive and Virtuous Environmental Singlewindow Hub (PARIVESH). PARIVESH is a single-window integrated environmental management system, launched by the Ministry of Environment, Forest and Climate Change as part of the wider "Digital India" governmental initiative. PARIVESH seeks to automate the entire process of submitting and tracking applications for various types of clearances (such as environmental, forest, wildlife and coastal regulation zone clearances) submitted by project proponents to the MOEFCC, as well as to the State Level Environmental Impact Assessment Authorities.
+Ban on illegal mining in the State of Goa. In February 2018, the Supreme Court of India set aside second renewals of mining leases granted by the State of Goa that were issued in violation of the applicable law. The Court directed that mining operations in the State be resumed only after fresh mining leases (not fresh renewals or other renewals) and fresh environmental clearances were granted in accordance with the provisions of the Mines & Minerals (Development and Regulation) Act 1957.
+Regulatory structure
+Regulation
+2. What is the regulatory framework for the exploration and extraction of mineral resources?
+Regulatory framework
+India's mineral and mining sector operates under a federal structure where the powers and responsibilities for regulation of the sector are divided between the central government and the respective State governments in accordance with the Union List, State List and the Concurrent List contained in the Seventh Schedule of the Constitution of India.
+Administration of the mining sector in India is the collective responsibility of the central government and the State governments (Constitution). The central government has the power under entry 54 of the Union List to regulate mines and mineral development to the extent that such a regulation is declared by the Parliament to be in public interest. The State governments' power to regulate mines and mineral development under entry 23 of the State List is subject to the power of the central government.
+Further to its powers under entry 54 of the Union List, the central government has framed the Mines & Minerals (Development and Regulation) Act 1957 (MMDR Act), which is the principal legislation governing the mineral sector (other than petroleum and natural gas) in India.
+The MMDR Act sets out the legal framework for the development of all minerals and for the regulation of mines. Minerals are classified into minor minerals and major minerals. Minor minerals include building stones, gravel, ordinary clay, ordinary sand and other minerals that the central government declares to be a minor mineral. Minerals that cannot be categorised as minor minerals are considered to be major minerals and include coal, manganese ore and iron ore, as well as other minerals used for industrial purposes.
+The MMDR Act underwent significant changes under the Mines and Minerals (Development and Regulation) Amendment Act 2015. These changes were brought about primarily to establish a transparent and non-discretionary regime for the grant of mineral concessions. The MMDR Act was further amended:
+In 2016 to allow the transfer of mining leases that are granted other than through auction and used for captive consumption purposes.
+In 2020 to allow for the transfer of approvals, licences and clearances (including environment and forest clearances) from the previous licensee to the new licensee for a period of two years from the grant of new lease, to ensure uninterrupted mining operations (see Question 1).
+The MMDR Act sets out the legal framework for the mining sector (other than petroleum and natural gas), along with the following rules and regulations:
+Mineral Concession Rules 1960 (MC Rules). These rules outline the framework for, among other things, granting concessions, rejecting applications, maintaining accounts and the submission of reports to the State governments.
+Mineral Conservation and Development Rules 2017 (MCD Rules). These rules prescribe the conditions for ensuring that mining is undertaken on a scientific basis while conserving the environment.
+Mineral (Auction) Rules 2015 (Auction Rules). These rules provide the framework for granting concessions for major minerals through an online electronic auction process.
+Mines Act. This Act defines the requirements for labour safety and working conditions in mines and contains provisions for the management and conduct of mining operations.
+Mines Rules. These rules lay down the framework for ensuring the welfare, health and safety of labourers employed in mines.
+Offshore Areas Mineral (Development and Regulation) Act 2002 (OAMDR Act). This Act regulates the development of mineral resources in offshore areas, including territorial waters, the continental shelf, exclusive economic zones and other Indian maritime zones.
+Offshore Areas Mineral Concession Rules 2006 (OAMDR Rules). These rules lay down the process for the grant and renewal of concessions in respect of mineral resources in offshore areas.
+Mines and Minerals (Contribution to District Mineral Foundation) Rules 2015. These rules specify the amount to be paid by a holder of a mining lease or prospecting licence/mining lease to the relevant District Mineral Foundation.
+Coal Block Allocation Rules 2017 (Coal Block Allocation Rules). These rules prescribe the terms and conditions for auction by competitive bidding for the allotment of coal blocks.
+Foreign Direct Investment Policy, as amended from time to time (FDI Policy). The FDI Policy is a framework for foreign direct investment in different sectors in India, including the mining sector. It is released by the Department of Industrial Policy and Promotion, Ministry of Commerce & Industry, Government of India and may be updated every year to reflect regulatory changes.
+The exploration and exploitation of petroleum and natural gas are primarily governed by the:
+Oilfields (Regulation and Development) Act 1948.
+Petroleum and Natural Gas Rules 1959.
+Regulatory authorities
+The regulatory authorities relevant to mining are:
+State governments. Each State government has the power to grant mineral concessions and collect royalties, dead rent and fees within the State in accordance with the provisions of MMDR Act.
+Ministry of Mines (MoM). The MoM is the primary body responsible for administration of mining in India. It is responsible for:
+survey and exploration of all minerals (other than coal, natural gases and petroleum);
+mining and metallurgy of non-ferrous metals; and
+administration of the MMDR Act.
+Indian Bureau of Mines (IBM). The IBM is a subordinate office of the MoM and is mainly responsible for regulating and ensuring systematic development of mining in India. It is engaged in the promotion, conservation and scientific development of mineral resources, while ensuring protection of the environment.
+Ministry of Coal (MoC). The MoC administers the exploration of coal in India and is responsible for ensuring that exploration activities are carried out in a sustainable manner. It is also engaged in the development of the infrastructure necessary for prompt coal supplies to meet other sectors' demands.
+Ministry of Petroleum and Natural Gas (MoPN). The MoPN was established under the Petroleum and Natural Gas Regulatory Board Act 2006 to govern the exploration and exploitation of petroleum resources, including natural gas. It oversees the production, supply, distribution, marketing and pricing of petroleum products and natural gas. It is also engaged in the planning, development and control of, and assistance to, all industries dealt with by the MoPN.
+Ministry of Environment, Forest and Climate Change (MOEFCC). The MoEFCC is the agency responsible for the planning and implementation of India's environmental and forestry policies and programmes. A project proponent must obtain environmental clearance from the MoEFCC to undertake a mining project in India.
+Ownership
+3. How are rights to the mineral resources held, and who holds those rights?
+Proprietary rights
+The State governments are successors to the properties, assets and rights, and liabilities and obligations, of the governments that previously ruled the area within the boundaries of the State (Article 294 and 295, Constitution). However, in the case of Threesiamma Jacob and others v Geologist, Dptt of Mining and Geology and others 2013 (9) SCALE 1, the Supreme Court recognised the rights of private landowners to own subsoil and mineral wealth.
+The court referred to constitutional provisions and legislation regulating the extraction of underground natural resources and held that there is no law that declares that mineral wealth/sub-soil rights vest only in the State. Ownership of sub-soil/mineral wealth follows the ownership of land and can vest in private parties if they own the land and are not deprived of that right by some valid legal process.
+However, the issue of mineral ownership is not settled, as jurisprudence on the subject is evolving and certain important aspects of ownership rights, such as liability of private landowners to pay royalties, are pending before the Supreme Court.
+Ownership of minerals in offshore areas vests exclusively in the central government under Article 297 of the Constitution.
+Entry rights
+The holders of concessions under the MMDR Act have the right to enter the land over which the concession has been granted and to carry all activities set out in the concession. The holder of the concession must pay compensation as set out in the concession to the occupier of the surface of the land for any loss or damage that is likely to arise or has arisen from or in consequence of its reconnaissance, prospecting or mining operations.
+Authorisation
+4. What are the key features of the leases, licences or concessions that are issued under the regulatory regime? Can these rights be leased by the right-holder?
+The following concessions are issued by the relevant State government for the purpose of exploration and mining of minerals (other than atomic minerals) under the MMDR Act:
+Reconnaissance permit and Non-Exclusive Reconnaissance Permit (NERP). This permit is granted for the purpose of undertaking preliminary prospecting of a mineral through regional, aerial, geophysical or geochemical surveys and geological mapping.
+Prospecting licence. A prospecting licence is a concession to undertake prospecting operations, including exploring, locating and proving mineral deposits.
+Composite (prospecting/mining) licence. The composite licence is a two-stage concession where prospecting is followed by mining operations.
+Mining lease. This is a lease allowing mining operations within the boundaries of the State. It allows for the grant of sub-leases for mining operations.
+The central government can formulate rules for regulating the grant of mineral concessions in respect of atomic minerals, and the State government must then grant the concession in accordance with the rules formulated by the central government.
+Lease/licence/concession term
+Reconnaissance permits (including NERPs) and prospecting licences can be granted for any mineral for a maximum period of three years. There is no provision for the extension of a reconnaissance permit. However, a prospecting licence can be renewed by the relevant State government for a period not exceeding five years. Renewals of prospecting licences granted in respect of coal, lignite and atomic minerals are subject to approval by the central government.
+Mining leases for minerals other than coal, lignite and atomic minerals are granted for a period of 50 years. On the expiry of the lease period, the lease must be put up for auction under the procedure specified by the MMDR Act. If the mineral is used for captive consumption, the holder of the lease has the right of first refusal at the auction after expiry of the lease period.
+A mining lease in respect of coal and lignite is granted for a minimum period of 20 years and a maximum period of 30 years. Renewal is subject to approval by the central government. On the expiry of the lease period, the lease can be put up for auction and allotted under the procedure specified in the MMDR Act and the Coal Block Allocation Rules.
+After consultation with the state government, the central government can terminate a prospecting licence or a mining lease granted in respect of any mineral other than a minor mineral at any time, if it is in the interests of:
+Regulating mines and developing minerals.
+Preserving the natural environment.
+Controlling floods.
+Preventing pollution.
+Avoiding danger to public health or ensuring safety of buildings, monuments, or other structures.
+Conserving mineral resources and ensuring safety in mines.
+Other purposes as the central government deems fit.
+Similarly, the State government can prematurely terminate a concession granted in respect of a minor mineral for the reasons stated above.
+In addition, the State government can revoke a reconnaissance permit or prospecting licence if the holder does not execute the permit or prospecting licence within 90 days of the order granting the permit or the prospective licence.
+Similarly, a mining lease expires if the holder either:
+Does not undertake mining operations for a period of two years after the date of execution of the lease.
+Having commenced mining operations, discontinues operations for a period of two years.
+Fees
+NERPs and reconnaissance permits. The online application for a NERP must be accompanied by a fee of INR1000 per square kilometre. If the application is rejected, the fee is refunded to the applicant less a 10% deduction.
+An application for reconnaissance permit (other than NERP) must be accompanied by a non-refundable fee of INR5 per square kilometre. The holder of the reconnaissance permit must also pay an annual permit fee fixed by the relevant State government of between INR5 and INR20 per square kilometre of land held under the permit.
+Prospecting licence. An application for a prospecting licence (other than composite licence) and its renewal must be accompanied by a non-refundable fee of INR250 for the first square kilometre or any part thereof, and INR50 for every additional square kilometre of the area over which the prospecting licence is applied for. In addition, the holder of the prospecting licence must also pay an annual prospecting fee fixed by the relevant State government of between INR1 and INR10 per hectare of land covered by the licence.
+Composite licence. The preferred bidder must pay to the relevant State government an amount of 0.25% of the value of the estimated resources as performance security before the issue of a composite licence. For a subsequent grant of a mining lease, the holder of the prospecting licence must follow the procedure and make payments as for a mining lease (see below).
+Mining lease. For mining leases for minerals (other than minor minerals, coal, lignite and atomic minerals) granted by the relevant State government through auction, an upfront payment equivalent to 0.5% of the value of the estimated resources must be made by the preferred bidder. The upfront payment must be made to the relevant State government in three instalments of 10%, 10% and 80%, and can be adjusted on the commencement of production of minerals. In addition, the preferred bidder must also provide a performance security of an amount of 0.5% of the value of the estimated resources, which is adjusted every five years so that it corresponds to 0.5% of the reassessed value of the estimated resources.
+An application for a mining lease for minor minerals must be accompanied by a non-refundable fee of INR2500 and deposit of INR1,000 to meet the preliminary expenses in connection with the grant. A further security deposit of INR10,000 must be made on the grant of the mining lease.
+Liability
+Reconnaissance permit. The primary obligations of the holder of a reconnaissance permit, including a NERP, are:
+Progressively relinquishing the area granted under the permit.
+Adhering to the minimum expenditure commitment and specific physical targets specified in the permit grant, failing which the permit may be cancelled.
+Making available all data collected during the reconnaissance operations to the Geological Survey of India, Indian Bureau of Mines and State government.
+Maintaining an accurate and faithful account of all the expenses incurred on the reconnaissance operations and allowing every authorised officer to examine accounts and other relevant information it maintains.
+Submitting periodic reports of the work done during the period of the reconnaissance permit to the State government, covering the work and all other relevant information obtained in the course of reconnaissance.
+Prospecting licence. The primary obligations of a prospecting licensee include:
+Reporting the discovery of any mineral not specified in the licence to the relevant State government within 60 days of discovery.
+Transferring the licence only with previous approval from the State government.
+Paying wages as prescribed in the Minimum Wages Act 1948.
+Planting not less than twice the number of trees destroyed by prospecting operations and trying to restore other flora destroyed by prospecting operations to the extent possible.
+Paying to the occupier of the surface of the land any compensation that becomes payable under the rules.
+Composite licence. A composite licence holder must observe the obligations imposed on the holder of a prospecting licence, followed by the obligations of the holder of a mining lease, if a mining lease is issued.
+Mining lease. The holder of a mining lease must observe the following conditions:
+Report to the relevant State government the discovery of any mineral in the leased area that is not specified in the lease within 60 days of discovery.
+Commence mining operations within one year from the date of execution of the lease and ensure that the operations are conducted in a proper manner.
+Erect, maintain and keep in good repair boundary marks and pillars necessary to indicate the demarcation shown in the plan annexed to the lease.
+Keep accurate accounts showing the quantity and other particulars of all minerals obtained and dispatched from the mine and allow any authorised officer to examine the accounts, plans and records the lease holder maintains.
+Give employment preference to tribal persons and other persons who become displaced as a result of mining operations.
+Pay to the occupier of the surface of the land any compensation that becomes payable under the applicable rules.
+Restrictions
+Eligibility. Concessions under the MMDR Act are only granted to Indian nationals or to Indian companies, as defined under clause 20 of section 2 of the Companies Act 2013. For the purposes of the MMDR Act, persons are deemed to be an Indian national if they are citizens of India or, in the case of a firm or association of individuals (other than companies), if all the members of the firm or members of the association are citizens of India.
+Central/State approval. The grant of a concession in respect of coal and lignite is subject to approval by the central government. For the grant of a mining lease, the State government must be satisfied that there is evidence for the mineral deposit, and there must be a duly approved mining plan for the area for which the application is made.
+Area restrictions. The MMDR Act also sets out restrictions on the maximum area for which concessions can be granted in respect of any mineral or group of associated minerals.
+Transfer restrictions. The transfer of mineral concessions is only allowed for:
+Concessions granted through auction.
+Mining leases granted other than through auction but used for captive consumption.
+In addition, a mining lease and a composite licence can only be transferred with the prior approval of the State government.
+5. How are such leases, licences or concessions awarded?
+The process involved in the issue of concessions for the purpose of exploration and mining of minerals (other than coal, lignite and atomic minerals) is as follows:
+NERP. An interested applicant must submit an online application to the relevant State government in a prescribed format, accompanied by the prescribed fee (Non-exclusive Reconnaissance Permit Rules 2015). The State government grants the NERP within 30 days from the date of filing of a successful application. The State government also specifies the validity period of the NERP at the time of grant.
+Reconnaissance permit and Prospecting Licence. An interested applicant must submit an application to the relevant State government in a prescribed format, accompanied by the prescribed fee (MMDR Act). The State government, having regard to the provisions of the MMDR Act, grants the permit or licence.
+Mining lease. The relevant State government grants mining lease through an online electronic auction process where bidders must quote a percentage of the value of minerals to be recovered that they are willing to share with the State government (Auction Rules). The bidder who submits the highest final price offer is granted the mining lease on meeting the following further requirements:
+submission of timely instalments;
+showing performance security;
+obtaining various approvals; and
+satisfaction of prescribed eligibility conditions.
+Composite licence. A composite licence is also granted through a similar online auction process as for the grant of a mining lease. The concessionaire must complete the prescribed level of prospecting within three years, which can be further extended by two years. Thereafter, for the grant of a mining lease, holders of a prospecting licence must first establish economically extractable mineral content in the area, after which they must follow similar procedures and make payments as for a mining lease (see above).
+Environment
+6. What are the main ongoing requirements for environmental protection?
+The MMDR Act empowers the central government to issue directions to the State governments to ensure sustainable development and exploitation of minerals to reduce adverse air, ground, water and ambient noise impacts.
+All mines, irrespective of their size and nature of mineral (major and minor), operating in the country must obtain an Environmental Clearance (EC) (Environment Impact Assessment Notification 2006, as amended). Mines operating without an EC are considered to be illegal mines.
+The MOEFCC has the authority to grant ECs in respect of:
+Asbestos mining, irrespective of mining area.
+Coal mining for mining lease area of more than 150 hectares.
+Non-coal mining for mining lease area of more than 100 hectares.
+Individual mining leases for a mining area of more than 100 hectares.
+Mining leases covering clusters where any individual lease size is more than 100 hectares.
+The Central Government has delegated the authority to grant ECs to the State Environment Impact Assessment Authority at the State or Union territory level in respect of:
+Coal mining for mining lease area of less than or equal to 150 hectares.
+Non-coal mining for mining lease area of less than or equal to 100 hectares.
+Individual mining lease for mining area between five and 25 hectares.
+Mining leases covering a cluster of areas that are either:
+between five and 25 hectares, with any individual lease size more than five hectares;
+equal to or more than 25 hectares, with individual lease sizes equal to or less than 100 hectares.
+The District Environment Impact Assessment Authority at the District level is the delegated authority that grants ECs in respect of:
+Individual mining leases of less than five hectares.
+Mining leases covering clusters of areas that are either:
+up to five hectares;
+between five hectares and 25 hectares with individual lease sizes less than five hectares.
+Some of the key environmental clearances required for mining operations include:
+Clearance under the Environment Protection Act 1986 and Environment Protection Rules 1986 in accordance with the Environment Impact Assessment Notification 2006, as amended from time to time.
+Consent to undertake mining in forest lands covered under the Forest Conservation Act 1980.
+Clearance from the relevant State Pollution Control Board under the:
+Water (Prevention and Control of Pollution) Act 1974;
+Air (Prevention and Control of Pollution) Act 1981;
+Hazardous and Other Wastes (Management and Transboundary Movement) Rules 2016;
+Solid Waste Management Rule 2016;
+Noise Pollution (Regulation and Control) Rules 2000;
+Construction and Demolition Waste Management Rules 2016; and
+Ozone Depleting Substances (Regulation) Rules 2000.
+The processing of environmental clearance applications has become integrated with the launch of PARIVESH. Accordingly, a project proponent is only required to submit an application to the PARIVESH website (https://parivesh.nic.in) to obtain the different environmental and forest clearances above.
+Health and safety
+7. What are the main ongoing requirements for compliance with health and safety regulations?
+The provisions relating to labour welfare and health safety in mines are contained in the Mines Act and Mines Rules, which contain detailed provisions for, among other things:
+Working conditions.
+Sanitation provisions.
+Working hours.
+Penalties for non-compliance.
+The Mines Act and the Mines Rules will be replaced by the OSH Code, which was recently passed by the central government on 29 September 2020 (see Question 1). The OSH Code consolidates the labour laws relating to labour safety, welfare and working conditions in various establishments, including mines, and will come into effect from a date to be notified by the central government. Once notified, the OSH Code will regulate the safety, health, welfare and working conditions of workers employed in mines.
+Employers must also ensure compliance with the requirements of the following subordinate legislation under the Mines Act:
+The Coal Mines Regulation 1957.
+The Metalliferous Mines Regulation 1961.
+The Mines Vocational Rules 1966.
+The Oil Mines Regulations 1984.
+The Mines Rescue Rules 1985.
+Mines Creche Rules 1966.
+The Directorate General of Mines Safety is the regulatory agency overseeing compliance with mining safety laws and ensuring the safety, health and welfare of persons employed in mines.
+Foreign ownership
+8. Are there any restrictions concerning the foreign investment in and ownership of companies engaged in the exploration and extraction of mineral resources?
+Up to 100% foreign direct investment under the automatic route is permitted for:
+Mining and exploration of metals and non-metal ores subject to the MMDR Act.
+Coal and lignite mining for captive consumption by power projects, iron and steel and cement units and other eligible activities subject to the MMDR Act and the CMSPA.
+Coal processing plants where the company does not engage in coal mining or selling washed or sized coal from the coal processing plant in the open market.
+Sale of coal and coal mining activities, including associated processing infrastructure subject to the MMDR Act and the CMSPA.
+(FDI Policy effective from 15 October 2020.)
+Up to 100% foreign direct investment is permitted under the government route for mining and mineral separation of titanium bearing minerals and ores, and value addition and integrated activities, subject to sectoral regulations and the MMDR Act.
+Processing and sale of mineral resources
+9. Are there any restrictions or limitations on the processing of extracted mineral resources?
+There are no other regulations governing the processing of extracted mineral resources in India.
+10. Are there any restrictions or limitations on the sale, export or import of extracted or processed minerals?
+Limitations on the export of minerals is regulated in accordance with the Indian Trade Classification (Harmonised System) of Export Items, 2018 by either:
+Prohibition.
+Restriction.
+Exclusive trading through State Trading Enterprises' (STEs).
+The export of minerals is also subject to other applicable laws that may be in force.
+In India, the export of rare earth compounds classified as Beach Sand Minerals (BSM) is regulated through STEs and can only be channelled through Indian Rare Earths Limited. Similarly, minerals that have been notified as prescribed substances under the Atomic Energy Act 1962 are controlled by and subject to the conditions prescribed in the Act. All other minerals that are not prohibited, restricted or regulated through STEs are freely exportable.
+Tax
+11. What payments, such as taxes or royalties, are payable by interest holders to the government?
+Direct tax
+Income tax. Corporate income tax at 30%, or minimum alternate tax at 18.5%, whichever is higher, is applicable to entities incorporated in India (Income Tax Act 1961). The tax rate is topped up with applicable surcharges and cess. A concession tax at 25.17% (inclusive of surcharge and cess) may apply where the entity foregoes specified deductions and exemptions.
+An Indian entity can claim deduction of one tenth of revenue expenditure incurred in the year of commencement of commercial production, and for four prior years for operations relating to prospecting or the extraction or production of minerals. This deduction can be claimed for a period of ten years, beginning from the year in which commercial production starts. It is limited to the extent of income in each of the respective years.
+A seller of coal, lignite or iron ore must also collect tax at 1% of the consideration received, and deposit this with the government. For sale of other minerals, tax must be collected at 0.1% of the consideration received, where the turnover of the seller is in excess of INR5 million. If the buyer does not provide a Permanent Account Number to the seller, tax must be collected at 5% instead of 1% and 1% instead of 0.1%.
+Indirect tax
+Goods and services tax (GST). GST at 18% is payable on royalties paid to State governments for the grant of mining leases. It is payable by the lessee under a reverse charge mechanism. GST paid under the reverse charge mechanism is eligible as an input tax credit (ITC) in the hands of the lessee. There are also ITCs for other expenses incurred in the course of business. Refunds of unused ITCs are available in respect of zero-rated supply (exports) or where ITC is accumulated due to a rate of tax on inputs that is higher than the tax on the output supply. However, ITC refunds are not available if export duty is payable on the goods exported out of India. (See Question 12.)
+Every person whose aggregate turnover exceeds INR2 million in the preceding financial year must obtain GST registration. However, small mining leaseholders whose aggregate turnover does not exceed INR15 million in the preceding financial year are eligible to pay GST under the composition scheme.
+Royalties
+Royalties. Holders of a mining lease must pay royalties to the relevant State government for any mineral removed from the leased area or consumed by them or their managers, employees, contractors or sub-lessees, at the rate specified in the Schedule 2 of MMDR Act.
+Dead rent. A holder of a mining lease must pay dead rent every year to the relevant State government, at a rate specified in Schedule 3 of the MMDR Act. If mining lease holders become liable to pay royalties for the removal or consumption of any mineral, they are liable to pay either the prescribed royalty or the dead rent, whichever is higher.
+National Mineral Exploration Trust. The National Mineral Exploration Trust is a non-profit body established by the central government for receiving funds for regional and detailed exploration activities. A holder of a mining lease or a composite prospecting/mining lease must pay the National Mineral Exploration Trust a sum equivalent to 2% of the royalties paid under Schedule 2 of the MMDR Act.
+District Mineral Foundation. The District Mineral Foundation is a non-profit body established by the State governments to work in the interests of persons and areas affected by mining operations. A holder of a mining lease or a prospecting licence/mining lease must pay a percentage of up to one-third of the royalties, as prescribed by the central government, to the District Mineral Foundation of the district in which the mining operations are carried out.
+12. Does the government derive any other economic benefits from the exploration and extraction of the mineral resources?
+In addition to the royalties and taxes levied, the government benefits from revenues collected as a part of the auction and allocation of mining leases, and from foreign exchange derived from mineral exports.
+13. What taxes and duties apply on the import and export of mineral resources?
+Under the Customs Act 1962, customs duty is levied on the import of goods into India based on the value of the goods. Any good imported into India is subject to customs duties at rates specified in the Customs Tariff Act 1975.
+Under the Goods and Services Tax regime, import of goods into India from a place outside the Indian customs frontier is treated as supplies of goods in the course of inter-state trade or commerce. Accordingly, integrated goods and services tax (IGST) is levied on imported goods.
+Therefore, goods imported into India are liable to:
+Basic Customs Duty (BCD).
+Social Welfare Surcharge (SWS).
+IGST.
+While BCD and SWS are non-creditable costs for an importer, an importer can claim input tax credit of IGST paid on imported goods.
+Export of goods from India to a place located outside India is also treated as a supply of goods in the course of inter-state trade or commerce. Accordingly, IGST is levied on exported goods. However, exports are considered as zero-rated supplies under GST. Therefore, the exporter can export goods with or without payment of GST and claim a refund of unused input tax credit as a refund or rebate on GST paid in respect of inputs and input services used for exporting those goods. In certain cases where there is a shortfall in the domestic supply, the government may also impose export duties to regulate the supply of minerals (such as iron ore, bauxite, and manganese). In these cases, the exporter cannot claim a refund of input tax credit.
+Reform
+14. Are there any plans for changes to the legal and regulatory framework?
+The MoM published a notice with certain proposed reforms to the MMDR Act in August 2020. The overarching approach behind the proposed reforms is driven by the central government's flagship "Atmanirbhar Bharat" scheme. The reforms have the objective of enhancing private investments, generating employment and bringing state-of-the-art-technology into the mining sector. It aims to boost exploration activities and permits the private sector to take up exploration activities alongside the general exploration and survey work carried out by government agencies.
+Among other things, the proposed reforms include:
+Introducing a seamless exploration, mining and production regime to bring more mineral blocks into auction.
+Resolving legacy issues to move towards an auction-only regime for allocation of mineral resources.
+Eliminating the difference between captive and non-captive mines, to allow transfer of mining leases and sale of surplus unused minerals, leading to better efficiency in mining and production.
+Developing a transparent national mineral index for different minerals.
+Rationalising the norm for computation of stamp duty on mining leases (to be based on the value of land under the mining lease, without reference to the value of the mineral).
+Defining "illegal mining", to distinguish between illegal mining outside a mining lease area and mining in violation of various clearances and approvals inside a mining lease area.
